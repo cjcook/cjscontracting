@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/folderpath
+    - export DEPLOYPATH=/home/pgnbapaclddj/public_html
     - /bin/cp -R . $DEPLOYPATH
