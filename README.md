@@ -1,4 +1,4 @@
-# cjscontracting
+# CJ's Contracting
 Repository for CJ's Contracting website
 
-Test 1
+www.cjscontracting.com
