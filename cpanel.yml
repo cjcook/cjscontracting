@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/user/folderpath
-    - /bin/cp -R . $DEPLOYPATH
