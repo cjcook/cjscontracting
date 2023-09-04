@@ -1,6 +1,6 @@
 <?php
 
-    $to = "l.krentz@greatlakes-hvac.com";
+    $to = "cj@cjscontracting.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
