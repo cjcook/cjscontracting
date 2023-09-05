@@ -2442,7 +2442,7 @@ ul {
 
 /* line 65, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_banner.scss */
 .banner_part .banner_text h1 span {
-  color: #ffa31a;
+  color: #eff426;
 }
 
 /* line 70, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_banner.scss */
@@ -2547,7 +2547,7 @@ ul {
   font-size: 50px;
   margin-bottom: 15px;
   display: inline-block;
-  color: #ffa31a;
+  color: #eff426;
 }
 
 /* line 67, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_our_service.scss */
@@ -2838,7 +2838,7 @@ ul {
   position: absolute;
   left: 0;
   top: 20px;
-  color: #ffa31a;
+  color: #eff426;
 }
 
 @media (max-width: 991px) {
@@ -2917,7 +2917,7 @@ ul {
   font-size: 150px;
   line-height: 120px;
   display: inline-block;
-  color: #ff5e13;
+  color: #eff426;
   padding-right: 35px;
   border-right: 1px solid #83868c;
   font-weight: 700;
@@ -3300,7 +3300,7 @@ ul {
 
 /* line 97, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_review.scss */
 .review_part .owl-nav button span:hover {
-  color: #ffa31a;
+  color: #eff426;
 }
 
 @media (max-width: 991px) {
@@ -3340,7 +3340,7 @@ ul {
 .member_counter .single_member_counter span {
   font-size: 60px;
   font-weight: 700;
-  color: #ffa31a;
+  color: #eff426;
   font-style: "Roboto", sans-serif;
   display: inline-block;
   float: left;
