@@ -1,13 +1,12 @@
 /**************** extend css start ****************/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:300,400,500,600,700,800|Roboto:300,400,500");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_extends.scss */
 .btn_2:hover {
   background-image: linear-gradient(to left, #ee390f 0%, #f9b700 51%, #ee390f 100%);
 }
 
 /**************** contact page start ****************/
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
-
 * {
 	margin:0;
 	padding:0;
