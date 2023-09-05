@@ -1,16 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/pgnbapaclddj/public_html/cjscontracting/
-    - export DEPLOYPATH1=/home/pgnbapaclddj/public_html/cjscontracting/css/
-    - export DEPLOYPATH2=/home/pgnbapaclddj/public_html/cjscontracting/fonts/
-    - export DEPLOYPATH3=/home/pgnbapaclddj/public_html/cjscontracting/img/
-    - export DEPLOYPATH4=/home/pgnbapaclddj/public_html/cjscontracting/js/
-    - export DEPLOYPATH5=/home/pgnbapaclddj/public_html/cjscontracting/sass/
-
-    - /bin/cp * $DEPLOYPATH
-    - /bin/cp/ * $DEPLOYPATH1
-    - /bin/cp/ * $DEPLOYPATH2
-    - /bin/cp/ * $DEPLOYPATH3
-    - /bin/cp/ * $DEPLOYPATH4
-    - /bin/cp/ * $DEPLOYPATH5
+    - export DEPLOYPATH=/home/pgnbapaclddj/public_html
+    - /bin/cp -R . $DEPLOYPATH
