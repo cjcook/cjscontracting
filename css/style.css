@@ -2280,10 +2280,8 @@ ul {
   /* line 6, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_menu.scss */
   .main_menu .navbar-brand img {
     height: 100px;
-    width: 210px;
+    width: 100px;
     padding: 0;
-    margin: 4px 0;
-    left: 0;
   }
 }
 
