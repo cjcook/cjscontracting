@@ -2279,7 +2279,7 @@ ul {
 @media (max-width: 991px) {
   /* line 6, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_menu.scss */
   .main_menu .navbar-brand img {
-    height: auto;
+    height: 100px;
     width: 210px;
     padding: 0;
     margin: 4px 0;
